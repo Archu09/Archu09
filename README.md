@@ -1,10 +1,8 @@
 
 
 ### Hello there 👋
-**A designer with a technical background** making design functional & engaging.
-
-
-💅 Expertise: Vector Design, Graphic Design, Website and Mobile App Designs
+  
+💅  I am a **Designer with a technical background**  *making design functional & engaging.*
 
 💬 Ping me about **Design, UI/UX, Front-end development, design thinking** 
 
